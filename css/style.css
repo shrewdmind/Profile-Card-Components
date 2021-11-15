@@ -70,22 +70,8 @@ span, .name p {
     font-size: 10px;
 }
 
-@media screen and (max-width: 425px) {
-    body {
-        background-size: 75vh;
-        background-position: right 37.5vw bottom 60vh, left 44vw top 52vh;
-    }
-}
-
 @media screen and (max-width: 320px) {
     .content {
         width: auto;
-    }
-}
-
-@media screen and (min-width: 1441px) {
-    body {
-        background-size: 135vh;
-        background-position: right 47.5vw bottom 40vh, left 41vw top 52vh;
     }
 }
