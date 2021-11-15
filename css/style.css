@@ -8,7 +8,7 @@ body {
     text-align: center;
     font-size: 12px;
     overflow: hidden;
-    background-image: url("./images/bg-pattern-top.svg"), url("./images/bg-pattern-bottom.svg");
+    background-image: url("../images/bg-pattern-top.svg"), url("../images/bg-pattern-bottom.svg");
     background-repeat: no-repeat;
     background-position: right 52vw bottom 34vh, left 46.5vw top 51.5vh;
     background-size: 120vh;
@@ -30,7 +30,7 @@ hr {
 
 .content {
     background-color: #fff;
-    background-image: url("./images/bg-pattern-card.svg");
+    background-image: url("../images/bg-pattern-card.svg");
     background-repeat: no-repeat;
     width: 350px;
     border-radius: 1rem;
