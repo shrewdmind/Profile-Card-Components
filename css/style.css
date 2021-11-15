@@ -10,7 +10,7 @@ body {
     overflow: hidden;
     background-image: url("/images/bg-pattern-top.svg"), url("/images/bg-pattern-bottom.svg");
     background-repeat: no-repeat;
-    background-position: right 51.5vw bottom 32vh, left 44vw top 52vh;
+    background-position: right 52vw bottom 34vh, left 46.5vw top 51.5vh;
     background-size: 120vh;
 }
 
